@@ -30,5 +30,9 @@
         believe that good food is best enjoyed while staring at your phone</string>
     <string name="order_name_hint">Please enter your name</string>
     <string name="order_details_hint">Please enter your order</string>
+<<<<<<< .merge_file_a16104
 	hey~~~you!!!
+=======
+	hey~~~
+>>>>>>> .merge_file_a04268
 </resources>
